@@ -43,3 +43,4 @@ youtube-search-python==1.4.2
 git+https://github.com/code-rgb/google-images-download.git
 feedparser>=6.0.2
 PyDictionary
+google_trans_new
