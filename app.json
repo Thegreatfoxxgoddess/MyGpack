@@ -26,7 +26,12 @@
 		"BOT_TOKEN": {
 			"description": "Get this from https://t.me/botfather and enable Inline Mode. (ADD YOUR BOT IN LOG CHANNEL)",
 			"required": false
-		},
+                }, 
+                "BOT_MEDIA": {
+                        "description": "your bot start media (you can add any link you want. upload the file to log channel and add link here"
+		        "required": false
+                        "value": "https://t.me/c/1316024553/11483"
+                },
 		"UPSTREAM_REPO": {
 			"description": "fill only if you maintain a fork !, else leave empty",
 			"required": false,
