@@ -49,3 +49,5 @@ PyDictionary
 lyricsgenius
 gtts
 colour
+ffmpeg-python>=0.2.0
+ffmpeg
