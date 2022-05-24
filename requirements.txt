@@ -51,4 +51,4 @@ ffmpeg-python>=0.2.0
 ffmpeg
 git+https://github.com/thegreatfoxxgoddess/pyrogram.git
 git+https://github.com/thegreatfoxxgoddess/google-images-download@patch-1
-yt_dl
+yt_dlp
